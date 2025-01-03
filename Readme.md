@@ -2,4 +2,4 @@
 
 ### Here is my portfolio
 
-- [Portfolio](https://abdulmizghani.netlify.app)
+- [Portfolio](https://abdulmoizghani.netlify.app)
